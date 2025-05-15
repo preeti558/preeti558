@@ -1,5 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQHJwaxcURaLIw/article-cover_image-shrink_720_1280/0/1648108643390?e=2147483647&v=beta&t=YvimmnTtRM2hXWNO_0oKkg2HaNyR2EiE91pG42wcPiU)](https://rishavchanda.io)
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
